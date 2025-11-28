@@ -1,5 +1,5 @@
-# AVALIACAO_REGIMENTAL_A1_UDF
-🐍 Projeto de Fundamentos em Python
+# AVALIACAO_REGIMENTAL_A1_UDF 
+# 🐍 Projeto de Fundamentos em Python:
 Este projeto consiste em quatro arquivos que demonstram conceitos essenciais da linguagem Python: estruturas de repetição, estruturas condicionais, listas e dicionários.
 # ARQUIVO: if_elif_else.py - Estruturas Condicionais
 Este script demonstra como usar as estruturas if, elif e else para gerenciar diferentes cenários de decisão (lógica de exclusão mútua).
