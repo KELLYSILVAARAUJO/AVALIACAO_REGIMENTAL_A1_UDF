@@ -16,10 +16,10 @@ idade: Valor inteiro (int) capturado via input().
 # ARQUIVO: for_while.py - Estruturas de Repetição
 Este script resolve o seguinte problema — imprimir números pares de 1 a 100 — usando as duas principais formas de laço em Python.
 
-🔄 Implementação com for
+# 🔄 Implementação com for
 A abordagem mais utilizada, utilizando a função range(1, 101) para gerar a sequência e um if para aplicar a condição de paridade (numero % 2 == 0).
 
-🔄 Implementação com while
+# 🔄 Implementação com while
 Requer inicialização (numero = 1), a condição de continuação (while numero <= 100) e o incremento manual (numero += 1) para evitar um loop infinito.
 
 🔑 Conceitos
